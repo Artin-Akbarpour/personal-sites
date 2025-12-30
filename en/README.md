@@ -1,26 +1,15 @@
-# 🇬🇧 English Websites
+# 🇬🇧 English Personal Websites
 
-Welcome to my collection of **personal websites in English**.  
-Each project is a fully designed site showcasing my skills and creativity.
+Welcome! This folder contains my **English personal websites**.  
+As a **Full-Stack Developer**, I handle both the **front-end** and **back-end** of each project.
 
-## 🚀 Projects
-
-1. **Personal Portfolio Website**
-   - A clean portfolio to display my projects and skills.
-   - Technologies: HTML, CSS, JavaScript
-   - Path: `en/site-1-portfolio/`
-
-2. **Personal Blog**
-   - A personal blog for sharing ideas and articles.
-   - Technologies: HTML, CSS
-   - Path: `en/site-2-blog/`
-
-3. **Online Resume**
-   - A minimal online resume site.
-   - Technologies: HTML, CSS
-   - Path: `en/site-3-resume/`
+## 🚀 Projects (to be added gradually)
+<!--
+1. Personal Portfolio Website
+   - Path: en/site-1-portfolio/
+-->
+- Projects are **full-stack**
+- New projects will be added over time
 
 ## 📌 Notes
-- These websites are mainly for practice and portfolio purposes.
-- New projects will be added regularly.
-
+Check each project folder for detailed README and live demo links (if available)
