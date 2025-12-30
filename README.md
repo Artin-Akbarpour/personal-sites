@@ -10,7 +10,7 @@ Each project represents a unique personal site created for learning, practice, o
 
 ## 📁 Projects List
 
-1. **Personal Portfolio Website**
+<!--1. **Personal Portfolio Website**
    - Description: A personal portfolio showcasing skills, projects, and experience.
    - Technologies: HTML, CSS, JavaScript
    - Project Path: `site-1-portfolio/`
@@ -23,7 +23,7 @@ Each project represents a unique personal site created for learning, practice, o
 3. **Online Resume Website**
    - Description: A clean and minimal online resume website.
    - Technologies: HTML, CSS
-   - Project Path: `site-3-resume/`
+   - Project Path: `site-3-resume/`-->
 
 ## 🎯 Purpose of This Repository
 - Practice and improve front-end development skills
@@ -43,7 +43,7 @@ Each project represents a unique personal site created for learning, practice, o
 ## 📁 Projects List
 
 ### 🇬🇧 English Websites (en)
-1. **Personal Portfolio Website**
+<!--1. **Personal Portfolio Website**
    - Description: A personal portfolio showcasing skills, projects, and experience.
    - Technologies: HTML, CSS, JavaScript
    - Project Path: `en/site-1-portfolio/`
@@ -51,10 +51,10 @@ Each project represents a unique personal site created for learning, practice, o
 2. **Personal Blog Website**
    - Description: A personal blog platform for publishing articles and thoughts.
    - Technologies: HTML, CSS
-   - Project Path: `en/site-2-blog/`
+   - Project Path: `en/site-2-blog/`-->
 
 ### 🇮🇷 Persian Websites (fa)
-1. **سایت نمونه‌کار شخصی**
+<!--1. **سایت نمونه‌کار شخصی**
    - توضیح: سایت شخصی برای نمایش مهارت‌ها و پروژه‌ها
    - تکنولوژی‌ها: HTML, CSS, JavaScript
    - مسیر پروژه: `fa/site-1-portfolio/`
@@ -62,5 +62,5 @@ Each project represents a unique personal site created for learning, practice, o
 2. **وبلاگ شخصی**
    - توضیح: یک وبلاگ شخصی برای انتشار مقالات و افکار
    - تکنولوژی‌ها: HTML, CSS
-   - مسیر پروژه: `fa/site-2-blog/`
+   - مسیر پروژه: `fa/site-2-blog/`-->
 
