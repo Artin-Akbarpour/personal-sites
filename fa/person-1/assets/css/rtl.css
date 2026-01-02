@@ -1,0 +1,454 @@
+/*rtl mellatweb*/
+
+@font-face {
+
+	font-family: iranyekan;
+	font-style: normal;
+
+	font-weight: bold;
+
+	src: url('fonts/eot/iranyekanwebbold.eot');
+
+	src: url('fonts/eot/iranyekanwebbold.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+
+		 url('fonts/woff2/iranyekanwebbold.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+
+		 url('fonts/woff/iranyekanwebbold.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+
+		 url('fonts/ttf/iranyekanwebbold.ttf') format('truetype');
+
+}
+@font-face {
+
+	font-family: iranyekan;
+
+	font-style: normal;
+
+	font-weight: 300;
+
+	src: url('fonts/eot/iranyekanweblight.eot');
+
+	src: url('fonts/eot/iranyekanweblight.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+
+		 url('fonts/woff2/iranyekanweblight.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+
+		 url('fonts/woff/iranyekanweblight.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+
+		 url('fonts/ttf/iranyekanweblight.ttf') format('truetype');
+
+}
+@font-face {
+
+	font-family: iranyekan;
+
+	font-style: normal;
+
+	font-weight: normal;
+
+	src: url('fonts/eot/iranyekanwebregular.eot');
+
+	src: url('fonts/eot/iranyekanwebregular.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+
+		 url('fonts/woff2/iranyekanwebregular.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+
+		 url('fonts/woff/iranyekanwebregular.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+
+		 url('fonts/ttf/iranyekanwebregular.ttf') format('truetype');
+
+}
+
+@font-face {
+
+	font-family: iranyekan;
+
+	font-style: normal;
+
+	font-weight: bold;
+
+	src: url('fonts/eot/iranyekanwebbold(fanum).eot');
+
+	src: url('fonts/eot/iranyekanwebbold(fanum).eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+
+		 url('fonts/woff2/iranyekanwebbold(fanum).woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+
+		 url('fonts/woff/iranyekanwebbold(fanum).woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+
+		 url('fonts/ttf/iranyekanwebbold(fanum).ttf') format('truetype');
+
+}
+@font-face {
+
+	font-family: iranyekan;
+
+	font-style: normal;
+
+	font-weight: 300;
+
+	src: url('fonts/eot/iranyekanweblight(fanum).eot');
+
+	src: url('fonts/eot/iranyekanweblight(fanum).eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+
+		 url('fonts/woff2/iranyekanweblight(fanum).woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+
+		 url('fonts/woff/iranyekanweblight(fanum).woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+
+		 url('fonts/ttf/iranyekanweblight(fanum).ttf') format('truetype');
+
+}
+@font-face {
+
+	font-family: iranyekan;
+
+	font-style: normal;
+
+	font-weight: normal;
+
+	src: url('fonts/eot/iranyekanwebregular(fanum).eot');
+
+	src: url('fonts/eot/iranyekanwebregular(fanum).eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+
+		 url('fonts/woff2/iranyekanwebregular(fanum).woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+
+		 url('fonts/woff/iranyekanwebregular(fanum).woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+
+		 url('fonts/ttf/iranyekanwebregular(fanum).ttf') format('truetype');
+
+}
+
+/**IranYekan>>*/  a,body,h1,h2,h3,h4,h5,h6,p,.button, button, input, textarea,.pricing-table .title  {font-family:iranyekan! important; direction: rtl;}
+.iknow_tm_hero .right {
+    padding-right: 230px;
+    padding-left: 0;
+}
+.iknow_tm_fixed_content .iknow_tm_portfolio .portfolio_filter {
+    text-align: right;
+}
+.iknow_tm_fixed_content .iknow_tm_about .left .details {
+    right: 0px;
+}
+.iknow_tm_fixed_content .iknow_tm_about .right {
+    padding-right: 0px;
+    padding-left: 0;
+}
+.iknow_tm_fixed_content .menubar ul li .svg {
+    right: 24px;
+    left: auto;
+}
+.iknow_tm_fixed_content .infobar {
+    margin-right: 24px;
+    margin-left: 0;
+}
+.iknow_tm_fixed_content .content_right {
+    margin-right: 24px;
+    margin-left: 0;
+}
+.iknow_tm_fixed_content .menubar ul li {
+    padding-right: 65px;
+    padding-left: 10px;
+}
+.iknow_tm_topbar .iknow_tm_button {
+    margin-right: 30px;
+    margin-left: 0;
+}
+.iknow_tm_topbar .right .social ul li {
+    margin: 0px 0px 0px 15px;
+}
+.iknow_tm_video {
+    float: right;
+}
+.iknow_tm_video .play {
+    padding-right: 28px;
+    padding-left: 0;
+}
+.iknow_tm_hero .main_menu ul li {
+    margin: 0px 0px 6px 6px;
+    float: right;
+}
+.iknow_tm_hero .main_menu ul li.entered span, .iknow_tm_hero .main_menu ul li.active span {
+    right: 95px;
+    left: auto;
+}
+.iknow_tm_hero .main_menu ul li span {
+    right: 100%;
+    left: auto;
+    padding-right: 12px;
+    padding-left: 0;
+}
+.iknow_tm_about .right {
+    padding-right: 75px;
+    padding-left: 0;
+}
+.iknow_tm_about .left .details {
+    right: -55px;
+    left: auto;
+}
+.iknow_tm_main_title {
+    float: right;
+}
+.iknow_tm_resume .right {
+    padding-right: 30px;
+    padding-left: 0;
+}
+.iknow_tm_resume_title h3 {
+    padding-right: 40px;
+    padding-left: 0;
+}
+.iknow_tm_resume_title .shape {
+    right: 0px;
+    left: auto;
+}
+.iknow_tm_resume .info_list ul li .short .job {
+    padding-left: 20px;
+    padding-right: 0;
+}
+.progress_inner > span {
+    text-align: right;
+}
+.progress_inner span.number {
+    float: left;
+    right: 100%;
+	margin-top: -14px;
+}
+
+.progress_inner span.number {
+    position: initial;
+	font-family: inherit;
+}
+.iknow_tm_portfolio .portfolio_filter ul li {
+    margin: 0px 0px 0px 30px;
+}
+.iknow_tm_testimonials .owl-carousel .owl-stage-outer {
+    direction: ltr;
+}
+.owl-carousel.owl-drag .owl-item {
+    direction: rtl;
+}
+.iknow_tm_testimonials .testimonials_list .details .info {
+    padding-right: 20px;
+    padding-left: 0;
+}
+.iknow_tm_modalbox .close {
+    right: 100%;
+    left: auto;
+    margin-right: 20px;
+    margin-left: 0;
+    z-index: 111111000000;
+}
+.iknow_tm_copyright .right ul li {
+    margin: 0px 0px 0px 40px;
+}
+input[type="text"], input[type="password"], input[type="datetime"], input[type="datetime-local"], input[type="date"], input[type="month"], input[type="time"], input[type="week"], input[type="number"], input[type="email"], input[type="url"], input[type="search"], input[type="tel"], input[type="color"], .uneditable-input {
+    letter-spacing: 0px;
+}
+.iknow_tm_contact .wrapper .left {
+    padding-left: 40px;
+    padding-right: 0;
+}
+.iknow_tm_contact .wrapper .left ul li .list_inner .short {
+    padding-right: 15px;
+    padding-left: 0;
+}
+.iknow_tm_author_info .info {
+    padding-left: 10px;
+    padding-right: 0;
+    text-align: left;
+}
+.iknow_tm_author_info {
+    padding-right: 10px;
+    padding-left: 0;
+}
+.iknow_tm_sidebar_2 {
+    right: 0px;
+    left: auto;
+}
+.iknow_tm_fixed_mainpart {
+    right: 370px;
+    left: 0px;
+}
+.iknow_tm_content_extra{
+    right: 470px;
+    left: 110px;
+}
+.iknow_tm_sidebar_2 .logo {
+    padding-right: 50px;
+    padding-left: 0;
+}
+.iknow_tm_sidebar_2 .menu ul li {
+    padding-right: 90px;
+    padding-left: 0;
+}
+.iknow_tm_sidebar_2 .menu ul li .svg {
+    right: 50px;
+    left: auto;
+}
+.iknow_tm_hero_extra .hero_content .left {
+    padding-right: 125px;
+    padding-left: 0;
+}
+.iknow_tm_fixed_mainpart .topbar_extra {
+    right: 370px;
+    left: 100px;
+}
+.iknow_tm_resume .left {
+    width: 50%;
+    padding-left: 30px;
+    padding-right: 0;
+}
+.iknow_tm_copyright .right ul li:last-child {
+    margin-left: 0px;
+    margin-right: 0;
+}
+.circular_progress_bar ul li {
+    float: right;
+    padding-right: 75px;
+    padding-left: 0;
+}
+.iknow_tm_fixed_mainpart .topbar_extra .details .social {
+    margin-left: 15px;
+    margin-right: 0;
+}
+.iknow_tm_sidebar_3 {
+    right: 130px;
+    left: auto;
+}
+.iknow_tm_content_wrapper {
+    left: 135px;
+    right: 468px;
+}
+.iknow_tm_sidebar_3 .menu ul li .svg {
+    right: 40px;
+    left: auto;
+}
+.iknow_tm_sidebar_3 .menu ul li span {
+    padding-right: 80px;
+    padding-left: 0;
+}
+@media (max-width: 1400px){
+.iknow_tm_fixed_content .menubar ul li .svg {
+    right: 6px !important;
+    left: auto !important;
+}}
+.iknow_tm_fixed_content .content_right {
+    width: 100%;
+    padding-right: 50px !important;
+    margin-right: 0 !important;
+}
+.iknow_tm_mainpart_new_2 .main_menu {
+    left: 0;
+    right: auto;
+}
+.iknow_tm_mainpart_new_2 .social_list {
+    right: 0;
+    left: auto;
+}
+.iknow_tm_mainpart_new_2 .main_menu ul li span {
+    padding-right: 12px;
+    padding-left: 0;
+}
+.iknow_tm_mainpart_new_2 .main_menu ul li.entered span, .iknow_tm_mainpart_new_2 .main_menu ul li.current span {
+    right: 46px;
+    left: auto;
+}
+.iknow_tm_intro .demo ul li .name .name_in .new {
+    right: 100%;
+    left: auto;
+}
+@media (max-width: 1040px){
+.iknow_tm_hero .right {
+    padding-right: 0px !IMPORTANT;
+}
+.iknow_tm_hero_fourth .content .right {
+    padding-right: 0px !important;
+}
+.iknow_tm_topbar .wrapper .menu {
+    left: 0;
+    right: auto;
+}
+.iknow_tm_content_wrapper {
+    left: 10px !important;
+    right: 10px !important;
+}
+.iknow_tm_fixed_mainpart {
+    right: 0px !important;
+
+}
+.iknow_tm_resume .left {
+    width: 100% !important;
+    padding-left: 0px !important;
+}
+.iknow_tm_hero_extra .hero_content .left {
+    padding: 0px !important;
+}
+.iknow_tm_content_extra {
+    left: 10px !important;
+    right: 10px !important;
+}
+.iknow_tm_fixed_content .menubar ul li {
+    border-radius: 7px 0px 0px 7px;
+}
+.iknow_tm_fixed_content .content_right {
+    padding-right: 50px;
+    padding-left: 0;
+    margin-left: 0;
+}
+.iknow_tm_fixed_content .menubar ul li {
+    padding-right: 45px !important;
+    padding-left: 0 !IMPORTANT;
+}
+.iknow_tm_hero .main_menu ul li span {
+    right: 65px !important;
+    left: auto !important;
+    font-size: 20px;
+}
+.iknow_tm_about .right {
+    padding-right: 0px !IMPORTANT;
+    width: 100%;
+    top: 0px;
+}
+.iknow_tm_about .left .details {
+    right: 0px !important;
+}
+.iknow_tm_portfolio .portfolio_filter {
+    text-align: right;
+}
+.iknow_tm_extra_menu .list_in .list_icon {
+    right: 0px;
+    left: auto;
+}
+.iknow_tm_extra_menu .list_in .center {
+    padding: 0px 70px 0px 20px;
+}
+.iknow_tm_resume .right {
+    padding-right: 0px !important;
+}
+}
+@media (max-width: 768px){
+.iknow_tm_testimonials .testimonials_list .list_inner .in {
+    padding: 27px 0px 35px 0px;
+}
+}
+.circular_progress_bar .myCircle {
+    float: right;
+}
+.circular_progress_bar .list_inner:after {
+    right: 7px;
+    left: auto;
+}
+@media (max-width: 480px){
+.circular_progress_bar .title h3 {
+    font-size: 11px;
+}}
+.circular_progress_bar ul {
+    margin: 0px -75px 0px 0px;
+}
+.iknow_tm_hero_fourth .content .right {
+    padding-right: 50px;
+    padding-left: 0;
+}
+.iknow_tm_hero_fourth .content .left {
+    padding-left: 50px;
+    padding-right: 0;
+}
+.iknow_tm_topbar .wrapper .menu ul li {
+    float: right;
+}
